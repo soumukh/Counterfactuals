@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Environment variables and secrets
+.env
+*.pem
+*.key
+
+# Generated files
+*.log
+*.tmp
